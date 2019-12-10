@@ -1,0 +1,94 @@
+.img1
+{
+  width: 25%;
+  height: 270%;
+}
+.fb
+{
+  width: 80%;
+}
+.tt
+{
+  width: 80%;
+}
+.yt
+{
+  width: 80%;
+}
+.inst
+{
+  width: 80%;
+}
+.pint
+{
+  width: 80%;
+}
+
+.img2
+{
+  width: 98%;
+  height: 380px;
+
+}
+.img3
+{
+  width: 98%;
+  height: 310px;
+  margin-top: 10px;
+}
+.img4
+{
+  width: 98%;
+  margin-bottom: 10px;
+}
+.img5
+{
+  width: 95%;
+}
+.img6
+{
+  width: 95%;
+    margin-top: 20px;
+}
+.img7
+{
+  width: 95%;
+  height: 220px;
+  margin-top: 20px;
+}
+.img8
+{
+  width: 98%;
+}
+.p1
+{
+ text-align: justify;
+}
+
+.t1
+{
+  margin-left: 25%;
+}
+.circle
+{
+  width: 80%;
+  margin-left: 10%;
+}
+.a1
+{
+  margin-left: 30%
+}
+.a2
+{
+  text-align: justify;
+}
+body
+{
+background-image: url(img/playa.jpg);
+background-attachment: fixed;
+}
+.rows
+{
+  background-color: beige;
+  width: 100%;
+}

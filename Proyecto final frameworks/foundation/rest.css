@@ -1,0 +1,51 @@
+.row
+{
+background-color: beige;
+opacity: 0.8;
+
+}
+.titulo
+{
+  text-align: right;
+}
+.slogan
+{
+  text-align: right;
+}
+.img1
+{
+  width: 100%;
+  height: 70px;
+}
+.img2
+{
+  width: 100%;
+  height: 70px;
+}
+.img3
+{
+  width: 100%;
+  height: 70px;
+}
+.list
+{
+  list-style: none;
+}
+li
+{
+  background-color: #E1E6DA;
+
+}
+.rec1
+{
+  height: 20%;
+  width: 100%;
+}
+body
+{
+ background-image: url(img/rest.jpg);
+}
+.avat1
+{
+  width: 10%;
+}

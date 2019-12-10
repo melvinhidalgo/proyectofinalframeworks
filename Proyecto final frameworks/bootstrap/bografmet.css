@@ -1,0 +1,84 @@
+.logos
+ {
+  background-color: rgba(1 9 1);
+  min-height: 10%;
+  min-width: 100%;
+  height: 290px;
+  border: 6px solid gray;
+}
+.redes-sociales
+{
+  display: flex;
+  height: 100%;
+  justify-content: flex-end;
+  margin-bottom: 10px;
+}
+.met
+{
+  max-width: 100%;
+  height: 100%;
+}
+.logo{
+  width: 70%;
+}
+.container
+{
+ background-color: beige;
+}
+a:hover
+{
+  background-color: orange;
+}
+p:hover
+{
+  background-color: orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-
